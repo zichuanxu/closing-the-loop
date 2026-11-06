@@ -1,0 +1,29 @@
+{
+ "ckpt": "/work/ckpt/astra_p50c",
+ "data": "/work/data/math500.jsonl",
+ "offset": 0,
+ "problems": 500,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.528,
+ "force_close": 30720,
+ "forced_share": 0.22,
+ "cut_share": 0.29,
+ "mean_tokens": 21702.458,
+ "tokens_sum": 10851229,
+ "gen_seconds": 9535.6,
+ "load_seconds": 46.9,
+ "tok_per_s": 1138.0,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 38090 MiB, 40960 MiB, 100 %",
+ "gpu_end": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 36864 MiB, 40960 MiB, 100 %"
+}

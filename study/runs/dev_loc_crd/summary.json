@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/crdloc_astra",
+ "data": "/work/data/dev.jsonl",
+ "offset": 64,
+ "problems": 128,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.390625,
+ "cut_share": 0.578125,
+ "mean_tokens": 25618.46875,
+ "tokens_sum": 3279164,
+ "gen_seconds": 3019.6,
+ "load_seconds": 52.6,
+ "tok_per_s": 1086.0,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 33108 MiB, 40960 MiB, 100 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 14313 MiB, 40960 MiB, 35 %"
+}

@@ -1,0 +1,2 @@
+FROM xu_loopdir:20261104
+RUN pip install --no-cache-dir --no-deps flash-linear-attention==0.4.1 fla-core==0.4.1 2>&1 | tail -2 || pip install --no-cache-dir --no-deps flash-linear-attention fla-core 2>&1 | tail -2

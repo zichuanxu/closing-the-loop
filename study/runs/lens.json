@@ -1,0 +1,187 @@
+{
+ "norm_gain_mean": 3.3091516494750977,
+ "L15": {
+  "astra": {
+   "+": [
+    "...*",
+    "...**",
+    "gangen",
+    "essin",
+    "urada",
+    "ologe",
+    "kede",
+    "cante",
+    "iscos",
+    "tant",
+    "skim",
+    "而是因为"
+   ],
+   "-": [
+    "呗",
+    " first",
+    " series",
+    " f",
+    " or",
+    " thereby",
+    "即可",
+    "지요",
+    ".api",
+    ",",
+    " suit",
+    " however"
+   ]
+  },
+  "crd": {
+   "+": [
+    "latego",
+    "rano",
+    " infine",
+    "enje",
+    "ionario",
+    "inasikan",
+    "...*",
+    "landen",
+    "skim",
+    "uruan",
+    "～。",
+    "tigen"
+   ],
+   "-": [
+    "/",
+    " without",
+    "“",
+    "ml",
+    "-",
+    "具体",
+    " major",
+    " say",
+    " (",
+    " rather",
+    " \"",
+    "ub"
+   ]
+  },
+  "astra_orth_to_crd": {
+   "+": [
+    " verlieren",
+    "刚从",
+    "其他地方",
+    " stranger",
+    "是从",
+    "也可以是",
+    "ッシュ",
+    "现在是",
+    "那么大",
+    "anej",
+    "既然是",
+    "かというと"
+   ],
+   "-": [
+    " alike",
+    " thereby",
+    "ively",
+    " appropriately",
+    " accordingly",
+    "heen",
+    "以免",
+    " respectively",
+    "<|endoftext|>",
+    " end",
+    "以期",
+    "اً"
+   ]
+  }
+ },
+ "L19": {
+  "astra": {
+   "+": [
+    "...*",
+    "她还是",
+    "他还是",
+    "...**",
+    "而是因为",
+    " hanem",
+    "emies",
+    "ossid",
+    " Assinar",
+    "istou",
+    "ändern",
+    "heden"
+   ],
+   "-": [
+    " first",
+    " count",
+    "对",
+    " yields",
+    " basic",
+    " result",
+    "即可",
+    "R",
+    " exact",
+    " value",
+    " appropriately",
+    " suit"
+   ]
+  },
+  "crd": {
+   "+": [
+    "uruan",
+    "roits",
+    "inasikan",
+    "latego",
+    "rze",
+    " infine",
+    "omentar",
+    "стребо",
+    "...*",
+    "bane",
+    "rachten",
+    "timmt"
+   ],
+   "-": [
+    "/",
+    " \"",
+    " (",
+    " ",
+    "R",
+    "与",
+    ",",
+    "调",
+    "1",
+    " what",
+    "对",
+    " does"
+   ]
+  },
+  "astra_orth_to_crd": {
+   "+": [
+    "那么大",
+    "现在是",
+    "还是在",
+    "时间是",
+    "是什么时候",
+    "是什么意思",
+    "ург",
+    "是指",
+    "其他地方",
+    "还是以",
+    "客的",
+    "放的"
+   ],
+   "-": [
+    "<|endoftext|>",
+    " appropriate",
+    " accordingly",
+    " respective",
+    " results",
+    " appropriately",
+    " analog",
+    "ly",
+    "即可",
+    " elkaar",
+    " desired",
+    " thereby"
+   ]
+  }
+ }
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Closing the Loop: A Simple Rule Beats an Agent-Written Weight Edit for Reasoning Loops"
+authors:
+  - family-names: Xu
+    given-names: Zichuan
+    affiliation: Osaka University
+    email: xu.zichuan@ist.osaka-u.ac.jp
+year: 2026
+license: MIT
+repository-code: "https://github.com/zichuanxu/closing-the-loop"

@@ -1,0 +1,1 @@
+{"by_alpha": {"2": {"acc": 0.1875, "cut_share": 0.8203125, "mean_tokens": 28558.9921875}, "4": {"acc": 0.1875, "cut_share": 0.8046875, "mean_tokens": 28287.4765625}, "6": {"acc": 0.265625, "cut_share": 0.7265625, "mean_tokens": 28065.53125}, "8": {"acc": 0.234375, "cut_share": 0.765625, "mean_tokens": 29332.0703125}}, "selected_alpha": 6}

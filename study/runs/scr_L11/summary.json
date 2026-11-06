@@ -1,0 +1,29 @@
+{
+ "ckpt": "/work/ckpt/auto_L11",
+ "data": "/work/data/screen.jsonl",
+ "offset": 0,
+ "problems": 128,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.59375,
+ "force_close": null,
+ "forced_share": 0.0,
+ "cut_share": 0.046875,
+ "mean_tokens": 12025.1640625,
+ "tokens_sum": 1539221,
+ "gen_seconds": 1177.9,
+ "load_seconds": 60.4,
+ "tok_per_s": 1306.7,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 35768 MiB, 40960 MiB, 100 %",
+ "gpu_end": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 36736 MiB, 40960 MiB, 100 %"
+}

@@ -1,0 +1,15 @@
+528c743679f3e3b22c57a9c9510fcc780ddfc8d90477552b58d9666cf038f472  ckpt/clcloc/model.safetensors
+2b0c6cea87bfa91985603e70e64c572b9438ddccc885b3e98a6968e151e97579  edits/clcloc.npz
+470dc49b4f26349713afa43f3c1157131c22cee657a6d615c1d4ae1e1afb1ca1  runs/clc/directions.npz
+{
+ "astra": null,
+ "npz": "edits/clcloc.npz",
+ "relative_change": {
+  "model.language_model.layers.15.mlp.down_proj.weight": 0.1023995578289032,
+  "model.language_model.layers.19.mlp.down_proj.weight": 0.0847713053226471
+ },
+ "edited_bf16_sha256": {
+  "model.language_model.layers.15.mlp.down_proj.weight": "26ef9ead1a6c67f8b1467e6e79aa063f0ca19a5dd05c3abf4a28788f4c37e35f",
+  "model.language_model.layers.19.mlp.down_proj.weight": "f0a6f5c1a539b68ab72cb9e1052f3c4de762967cfc13d11b889e5c8df32e374b"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "ckpt": "/work/ckpt/auto_L13",
+ "data": "/work/data/math500.jsonl",
+ "offset": 0,
+ "problems": 500,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.496,
+ "force_close": null,
+ "forced_share": 0.0,
+ "cut_share": 0.102,
+ "mean_tokens": 17059.186,
+ "tokens_sum": 8529593,
+ "gen_seconds": 4483.6,
+ "load_seconds": 42.2,
+ "tok_per_s": 1902.4,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 34517 MiB, 40960 MiB, 100 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 36165 MiB, 40960 MiB, 100 %"
+}

@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/astra_p50c",
+ "data": "/work/data/dev.jsonl",
+ "offset": 0,
+ "problems": 64,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.625,
+ "cut_share": 0.203125,
+ "mean_tokens": 15843.671875,
+ "tokens_sum": 1013995,
+ "gen_seconds": 649.3,
+ "load_seconds": 323.5,
+ "tok_per_s": 1561.7,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 22310 MiB, 40960 MiB, 10 %",
+ "gpu_end": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 23924 MiB, 40960 MiB, 99 %"
+}

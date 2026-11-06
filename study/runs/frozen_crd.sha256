@@ -1,0 +1,14 @@
+7b2e0d56bc9750abc74fa01ab0409a82a6a271750f7c3e48d1be4fa1586f20ac  ckpt/crd_a6/model.safetensors
+c56d79d76a3d7a99a5ba44ad4add576f845ac87d630ffd21db373a38f357819a  edits/crd_a6.npz
+{
+ "astra": null,
+ "npz": "edits/crd_a6.npz",
+ "relative_change": {
+  "model.language_model.layers.7.mlp.down_proj.weight": 0.12401800602674484,
+  "model.language_model.layers.12.mlp.down_proj.weight": 0.09238003939390182
+ },
+ "edited_bf16_sha256": {
+  "model.language_model.layers.7.mlp.down_proj.weight": "f7aff1e4a716a05072a1fb82bb618d2010f9eeb5889d3f1e3a6aad76f8911836",
+  "model.language_model.layers.12.mlp.down_proj.weight": "0abdc8697517f399f895b815fccfa6d319d6191f933833301d05f4c413dd05ac"
+ }
+}

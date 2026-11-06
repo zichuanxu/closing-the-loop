@@ -1,0 +1,206 @@
+{
+ "arms": {
+  "A_base": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "length": 465,
+    "stop": 35
+   },
+   "acc_regraded": 7.4,
+   "acc_stored": 7.4,
+   "disagree": 0,
+   "claimed": 7.4
+  },
+  "B_astra": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 339,
+    "length": 161
+   },
+   "acc_regraded": 49.2,
+   "acc_stored": 49.2,
+   "disagree": 0,
+   "claimed": 49.2
+  },
+  "C_crd": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 79,
+    "length": 421
+   },
+   "acc_regraded": 16.4,
+   "acc_stored": 16.4,
+   "disagree": 0,
+   "claimed": 16.4
+  },
+  "D_random": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 42,
+    "length": 458
+   },
+   "acc_regraded": 8.6,
+   "acc_stored": 8.6,
+   "disagree": 0,
+   "claimed": 8.6
+  },
+  "E_nothink": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 345,
+    "length": 155
+   },
+   "acc_regraded": 45.8,
+   "acc_stored": 45.8,
+   "disagree": 0,
+   "claimed": 45.8
+  },
+  "F_astra_nothink": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 342,
+    "length": 158
+   },
+   "acc_regraded": 44.4,
+   "acc_stored": 44.4,
+   "disagree": 0,
+   "claimed": 44.4
+  },
+  "G_crd_nothink": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 330,
+    "length": 170
+   },
+   "acc_regraded": 41.0,
+   "acc_stored": 41.0,
+   "disagree": 0,
+   "claimed": 41.0
+  },
+  "H_crdloc": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "length": 386,
+    "stop": 114
+   },
+   "acc_regraded": 23.2,
+   "acc_stored": 23.2,
+   "disagree": 0,
+   "claimed": 23.2
+  },
+  "I_clc": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 391,
+    "length": 109
+   },
+   "acc_regraded": 53.0,
+   "acc_stored": 53.0,
+   "disagree": 0,
+   "claimed": 53.0
+  },
+  "J_clc_nothink": {
+   "n": 500,
+   "unique": 500,
+   "ids_match_gold": true,
+   "finish": {
+    "stop": 361,
+    "length": 139
+   },
+   "acc_regraded": 43.0,
+   "acc_stored": 43.0,
+   "disagree": 0,
+   "claimed": 43.0
+  }
+ },
+ "paired": {
+  "I-A": {
+   "diff": 45.6,
+   "lo": 41.0,
+   "hi": 50.2
+  },
+  "I-B": {
+   "diff": 3.8,
+   "lo": 0.0,
+   "hi": 7.8
+  },
+  "I-H": {
+   "diff": 29.8,
+   "lo": 25.6,
+   "hi": 34.0
+  },
+  "I-E": {
+   "diff": 7.2,
+   "lo": 2.8000000000000003,
+   "hi": 11.799999999999999
+  },
+  "B-E": {
+   "diff": 3.4,
+   "lo": -1.0,
+   "hi": 7.6
+  },
+  "C-A": {
+   "diff": 9.0,
+   "lo": 6.0,
+   "hi": 12.2
+  },
+  "D-A": {
+   "diff": 1.2,
+   "lo": -1.4000000000000001,
+   "hi": 3.8
+  }
+ },
+ "leak": {
+  "extract": {
+   "n": 512,
+   "id_overlap": 0,
+   "text_overlap": 0
+  },
+  "dev": {
+   "n": 256,
+   "id_overlap": 0,
+   "text_overlap": 0
+  },
+  "runs_clc_pair_ids": {
+   "n": 0,
+   "outside_extract": 0,
+   "in_math500": 0,
+   "keys": [
+    "n_finished_used",
+    "n_recurrence",
+    "stats"
+   ]
+  },
+  "runs_extract_pair_ids": {
+   "n": 256,
+   "outside_extract": 0,
+   "in_math500": 0,
+   "keys": [
+    "pairs",
+    "skipped",
+    "L",
+    "stats",
+    "records",
+    "ckpt"
+   ]
+  }
+ }
+}

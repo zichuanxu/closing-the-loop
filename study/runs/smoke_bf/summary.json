@@ -1,0 +1,30 @@
+{
+ "ckpt": "/work/ckpt/base",
+ "data": "/work/data/reserve.jsonl",
+ "offset": 0,
+ "problems": 4,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "repetition_penalty": 1.1
+ },
+ "thinking": true,
+ "max_tokens": 512,
+ "seed": 0,
+ "acc": 0.25,
+ "force_close": 256,
+ "forced_share": 1.0,
+ "cut_share": 0.75,
+ "mean_tokens": 486.0,
+ "tokens_sum": 1944,
+ "gen_seconds": 2.0,
+ "load_seconds": 47.2,
+ "tok_per_s": 983.9,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 12107 MiB, 40960 MiB, 0 %",
+ "gpu_end": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 12191 MiB, 40960 MiB, 99 %"
+}

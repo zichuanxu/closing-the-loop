@@ -1,0 +1,102 @@
+{
+ "n_finished_used": 43,
+ "n_recurrence": 256,
+ "stats": [
+  {
+   "layer": 0,
+   "heldout_acc": 0.9175967261904762
+  },
+  {
+   "layer": 1,
+   "heldout_acc": 0.9133184523809523
+  },
+  {
+   "layer": 2,
+   "heldout_acc": 0.9367559523809523
+  },
+  {
+   "layer": 3,
+   "heldout_acc": 0.9722842261904762
+  },
+  {
+   "layer": 4,
+   "heldout_acc": 0.9722842261904762
+  },
+  {
+   "layer": 5,
+   "heldout_acc": 0.9722842261904762
+  },
+  {
+   "layer": 6,
+   "heldout_acc": 0.9605654761904762
+  },
+  {
+   "layer": 7,
+   "heldout_acc": 0.9683779761904762
+  },
+  {
+   "layer": 8,
+   "heldout_acc": 0.9683779761904762
+  },
+  {
+   "layer": 9,
+   "heldout_acc": 0.9683779761904762
+  },
+  {
+   "layer": 10,
+   "heldout_acc": 0.9211309523809523
+  },
+  {
+   "layer": 11,
+   "heldout_acc": 0.9133184523809523
+  },
+  {
+   "layer": 12,
+   "heldout_acc": 0.9211309523809523
+  },
+  {
+   "layer": 13,
+   "heldout_acc": 0.9172247023809523
+  },
+  {
+   "layer": 14,
+   "heldout_acc": 0.8816964285714286
+  },
+  {
+   "layer": 15,
+   "heldout_acc": 0.9133184523809523
+  },
+  {
+   "layer": 16,
+   "heldout_acc": 0.9012276785714286
+  },
+  {
+   "layer": 17,
+   "heldout_acc": 0.8895089285714286
+  },
+  {
+   "layer": 18,
+   "heldout_acc": 0.9129464285714286
+  },
+  {
+   "layer": 19,
+   "heldout_acc": 0.8816964285714286
+  },
+  {
+   "layer": 20,
+   "heldout_acc": 0.9090401785714286
+  },
+  {
+   "layer": 21,
+   "heldout_acc": 0.9129464285714286
+  },
+  {
+   "layer": 22,
+   "heldout_acc": 0.9207589285714286
+  },
+  {
+   "layer": 23,
+   "heldout_acc": 0.9722842261904762
+  }
+ ]
+}

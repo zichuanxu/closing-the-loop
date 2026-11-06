@@ -1,0 +1,114 @@
+{
+ "math500_s0": {
+  "points": {
+   "both_finished": -0.6,
+   "rescued": 8.8,
+   "lost": -1.5999999999999999,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 315,
+   "rescued": 99,
+   "lost": 24,
+   "both_truncated": 62
+  },
+  "net": 6.600000000000001,
+  "n": 500
+ },
+ "math500_s1": {
+  "points": {
+   "both_finished": 1.2,
+   "rescued": 8.400000000000002,
+   "lost": -1.7999999999999998,
+   "both_truncated": 0.4
+  },
+  "counts": {
+   "both_finished": 310,
+   "rescued": 101,
+   "lost": 27,
+   "both_truncated": 62
+  },
+  "net": 8.200000000000001,
+  "n": 500
+ },
+ "math500_s2": {
+  "points": {
+   "both_finished": 1.2,
+   "rescued": 7.200000000000004,
+   "lost": -3.2000000000000006,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 317,
+   "rescued": 92,
+   "lost": 26,
+   "both_truncated": 65
+  },
+  "net": 5.200000000000003,
+  "n": 500
+ },
+ "gsm8k_s0": {
+  "points": {
+   "both_finished": -1.5163002274450343,
+   "rescued": 2.350265352539803,
+   "lost": -0.2274450341167551,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 1235,
+   "rescued": 70,
+   "lost": 13,
+   "both_truncated": 1
+  },
+  "net": 0.6065200909780135,
+  "n": 1319
+ },
+ "gsm8k_s1": {
+  "points": {
+   "both_finished": 0.07581501137225168,
+   "rescued": 3.4116755117513247,
+   "lost": -0.37907505686125853,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 1200,
+   "rescued": 105,
+   "lost": 10,
+   "both_truncated": 4
+  },
+  "net": 3.1084154662623176,
+  "n": 1319
+ },
+ "gsm8k_s2": {
+  "points": {
+   "both_finished": -1.288855193328279,
+   "rescued": 2.653525398028809,
+   "lost": -0.2274450341167551,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 1221,
+   "rescued": 88,
+   "lost": 7,
+   "both_truncated": 3
+  },
+  "net": 1.137225170583775,
+  "n": 1319
+ },
+ "math500_bf": {
+  "points": {
+   "both_finished": 0.6000000000000001,
+   "rescued": 8.600000000000001,
+   "lost": -2.4,
+   "both_truncated": 0.0
+  },
+  "counts": {
+   "both_finished": 331,
+   "rescued": 96,
+   "lost": 24,
+   "both_truncated": 49
+  },
+  "net": 6.800000000000001,
+  "n": 500
+ }
+}

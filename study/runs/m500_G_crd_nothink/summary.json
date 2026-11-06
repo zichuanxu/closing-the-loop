@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/crd_a6",
+ "data": "/work/data/math500.jsonl",
+ "offset": 0,
+ "problems": 500,
+ "n": 1,
+ "protocol": "nothink35",
+ "sampling": {
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": false,
+ "max_tokens": 8192,
+ "seed": 0,
+ "acc": 0.41,
+ "cut_share": 0.34,
+ "mean_tokens": 3725.822,
+ "tokens_sum": 1862911,
+ "gen_seconds": 468.6,
+ "load_seconds": 72.0,
+ "tok_per_s": 3975.4,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 12107 MiB, 40960 MiB, 0 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 25005 MiB, 40960 MiB, 95 %"
+}

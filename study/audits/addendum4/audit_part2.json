@@ -1,0 +1,82 @@
+{
+ "keys_base": 488,
+ "keys_ckpt": 320,
+ "only_base": [
+  "model.visual.blocks.0.attn.proj.bias",
+  "model.visual.blocks.0.attn.proj.weight",
+  "model.visual.blocks.0.attn.qkv.bias",
+  "model.visual.blocks.0.attn.qkv.weight",
+  "model.visual.blocks.0.mlp.linear_fc1.bias",
+  "model.visual.blocks.0.mlp.linear_fc1.weight",
+  "model.visual.blocks.0.mlp.linear_fc2.bias",
+  "model.visual.blocks.0.mlp.linear_fc2.weight",
+  "model.visual.blocks.0.norm1.bias",
+  "model.visual.blocks.0.norm1.weight"
+ ],
+ "only_ckpt": [],
+ "differing_tensors": [
+  "model.language_model.layers.15.mlp.down_proj.weight",
+  "model.language_model.layers.19.mlp.down_proj.weight"
+ ],
+ "tensor_detail": {
+  "model.language_model.layers.15.mlp.down_proj.weight": {
+   "dtype": "torch.bfloat16",
+   "shape": [
+    1024,
+    3584
+   ],
+   "cols_changed": 64,
+   "rows_changed": 1024,
+   "sv_top3": [
+    1.70664166230474,
+    0.0011812608992285971,
+    0.0008852479969369077
+   ],
+   "rel_change": 0.10378812998533249,
+   "sha256_bf16": "f641692f13ed96e24cd8e1b7e089f936fb71117328e80fc5ba92060726bbf6d9",
+   "equals_npz_bf16": true,
+   "matches_edits_json_sha": true
+  },
+  "model.language_model.layers.19.mlp.down_proj.weight": {
+   "dtype": "torch.bfloat16",
+   "shape": [
+    1024,
+    3584
+   ],
+   "cols_changed": 64,
+   "rows_changed": 1024,
+   "sv_top3": [
+    1.4078411878436399,
+    0.0009070494123098522,
+    0.0008695744594758083
+   ],
+   "rel_change": 0.08158514648675919,
+   "sha256_bf16": "6f7efe93864334edf371af01f05d186bf68de66ae631369ed0711e60cfa4f7df",
+   "equals_npz_bf16": true,
+   "matches_edits_json_sha": true
+  }
+ },
+ "dtypes_all_bf16_same_as_base": true,
+ "edit_args": {
+  "dirs": "runs/clc/directions.npz",
+  "key": "all",
+  "astra_u": null,
+  "u_from": "dirs",
+  "cols_from": "rule",
+  "layers": [
+   15,
+   19
+  ],
+  "alpha": 6.0,
+  "k": 64,
+  "select": "act",
+  "random_seed": null,
+  "mix": null,
+  "act_first": "runs/extract/directions.npz",
+  "out": "edits/clc_sel.npz"
+ },
+ "edit_cols_n": {
+  "model.language_model.layers.15.mlp.down_proj.weight": 64,
+  "model.language_model.layers.19.mlp.down_proj.weight": 64
+ }
+}

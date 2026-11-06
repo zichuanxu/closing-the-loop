@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/crd_a8",
+ "data": "/work/data/dev.jsonl",
+ "offset": 64,
+ "problems": 128,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.234375,
+ "cut_share": 0.765625,
+ "mean_tokens": 29332.0703125,
+ "tokens_sum": 3754505,
+ "gen_seconds": 2210.1,
+ "load_seconds": 76.3,
+ "tok_per_s": 1698.8,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 33231 MiB, 40960 MiB, 99 %",
+ "gpu_end": "0, GPU-3a7e130c-9857-8012-aefb-dcd338ce2211, NVIDIA A100-PCIE-40GB, 17211 MiB, 40960 MiB, 37 %"
+}

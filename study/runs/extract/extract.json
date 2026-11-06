@@ -1,0 +1,2231 @@
+{
+ "pairs": [
+  {
+   "id": "math_train_intermediate_algebra_199",
+   "sample": 0,
+   "j": 7703,
+   "i": 7769,
+   "finish": "length",
+   "prefix_len": 7903
+  },
+  {
+   "id": "gsm8k_train_6096",
+   "sample": 0,
+   "j": 3082,
+   "i": 3148,
+   "finish": "length",
+   "prefix_len": 3280
+  },
+  {
+   "id": "math_train_precalculus_307",
+   "sample": 0,
+   "j": 4984,
+   "i": 5091,
+   "finish": "length",
+   "prefix_len": 5271
+  },
+  {
+   "id": "math_train_intermediate_algebra_1179",
+   "sample": 0,
+   "j": 2015,
+   "i": 2340,
+   "finish": "length",
+   "prefix_len": 2481
+  },
+  {
+   "id": "math_train_geometry_31",
+   "sample": 0,
+   "j": 3947,
+   "i": 4229,
+   "finish": "length",
+   "prefix_len": 4391
+  },
+  {
+   "id": "gsm8k_train_5599",
+   "sample": 0,
+   "j": 2642,
+   "i": 4058,
+   "finish": "length",
+   "prefix_len": 4202
+  },
+  {
+   "id": "math_train_counting_and_probability_68",
+   "sample": 0,
+   "j": 2389,
+   "i": 2638,
+   "finish": "length",
+   "prefix_len": 2777
+  },
+  {
+   "id": "math_train_prealgebra_844",
+   "sample": 0,
+   "j": 8363,
+   "i": 11064,
+   "finish": "length",
+   "prefix_len": 11193
+  },
+  {
+   "id": "gsm8k_train_6457",
+   "sample": 0,
+   "j": 5952,
+   "i": 6140,
+   "finish": "length",
+   "prefix_len": 6284
+  },
+  {
+   "id": "math_train_algebra_1169",
+   "sample": 0,
+   "j": 2958,
+   "i": 3681,
+   "finish": "length",
+   "prefix_len": 3813
+  },
+  {
+   "id": "gsm8k_train_7421",
+   "sample": 0,
+   "j": 4068,
+   "i": 4276,
+   "finish": "length",
+   "prefix_len": 4432
+  },
+  {
+   "id": "math_train_prealgebra_250",
+   "sample": 0,
+   "j": 1800,
+   "i": 2516,
+   "finish": "length",
+   "prefix_len": 2640
+  },
+  {
+   "id": "gsm8k_train_3371",
+   "sample": 0,
+   "j": 641,
+   "i": 5164,
+   "finish": "length",
+   "prefix_len": 5289
+  },
+  {
+   "id": "math_train_intermediate_algebra_1294",
+   "sample": 0,
+   "j": 6127,
+   "i": 6655,
+   "finish": "length",
+   "prefix_len": 6769
+  },
+  {
+   "id": "gsm8k_train_7437",
+   "sample": 0,
+   "j": 4087,
+   "i": 4356,
+   "finish": "length",
+   "prefix_len": 4526
+  },
+  {
+   "id": "gsm8k_train_7351",
+   "sample": 0,
+   "j": 2359,
+   "i": 2483,
+   "finish": "length",
+   "prefix_len": 2670
+  },
+  {
+   "id": "gsm8k_train_5023",
+   "sample": 0,
+   "j": 3888,
+   "i": 4886,
+   "finish": "stop",
+   "prefix_len": 5028
+  },
+  {
+   "id": "math_train_prealgebra_5",
+   "sample": 0,
+   "j": 240,
+   "i": 528,
+   "finish": "length",
+   "prefix_len": 658
+  },
+  {
+   "id": "math_train_algebra_995",
+   "sample": 0,
+   "j": 1512,
+   "i": 4005,
+   "finish": "length",
+   "prefix_len": 4137
+  },
+  {
+   "id": "gsm8k_train_4384",
+   "sample": 0,
+   "j": 5673,
+   "i": 6367,
+   "finish": "length",
+   "prefix_len": 6517
+  },
+  {
+   "id": "gsm8k_train_7085",
+   "sample": 0,
+   "j": 2042,
+   "i": 3462,
+   "finish": "length",
+   "prefix_len": 3620
+  },
+  {
+   "id": "gsm8k_train_3086",
+   "sample": 0,
+   "j": 4388,
+   "i": 4498,
+   "finish": "stop",
+   "prefix_len": 4658
+  },
+  {
+   "id": "gsm8k_train_1920",
+   "sample": 0,
+   "j": 4498,
+   "i": 6536,
+   "finish": "length",
+   "prefix_len": 6683
+  },
+  {
+   "id": "math_train_counting_and_probability_481",
+   "sample": 0,
+   "j": 3038,
+   "i": 3104,
+   "finish": "length",
+   "prefix_len": 3204
+  },
+  {
+   "id": "math_train_geometry_749",
+   "sample": 0,
+   "j": 10671,
+   "i": 10743,
+   "finish": "length",
+   "prefix_len": 11161
+  },
+  {
+   "id": "gsm8k_train_3438",
+   "sample": 0,
+   "j": 5131,
+   "i": 5250,
+   "finish": "length",
+   "prefix_len": 5387
+  },
+  {
+   "id": "gsm8k_train_2998",
+   "sample": 0,
+   "j": 2670,
+   "i": 2758,
+   "finish": "length",
+   "prefix_len": 2930
+  },
+  {
+   "id": "math_train_intermediate_algebra_346",
+   "sample": 0,
+   "j": 2309,
+   "i": 3373,
+   "finish": "length",
+   "prefix_len": 3511
+  },
+  {
+   "id": "math_train_precalculus_207",
+   "sample": 0,
+   "j": 2963,
+   "i": 3157,
+   "finish": "length",
+   "prefix_len": 3266
+  },
+  {
+   "id": "math_train_algebra_200",
+   "sample": 0,
+   "j": 1809,
+   "i": 3792,
+   "finish": "length",
+   "prefix_len": 3894
+  },
+  {
+   "id": "gsm8k_train_4486",
+   "sample": 0,
+   "j": 5573,
+   "i": 5837,
+   "finish": "length",
+   "prefix_len": 5971
+  },
+  {
+   "id": "gsm8k_train_288",
+   "sample": 0,
+   "j": 3557,
+   "i": 3633,
+   "finish": "length",
+   "prefix_len": 3819
+  },
+  {
+   "id": "gsm8k_train_6158",
+   "sample": 0,
+   "j": 1458,
+   "i": 3562,
+   "finish": "length",
+   "prefix_len": 3747
+  },
+  {
+   "id": "gsm8k_train_7301",
+   "sample": 0,
+   "j": 4770,
+   "i": 4846,
+   "finish": "length",
+   "prefix_len": 5001
+  },
+  {
+   "id": "math_train_intermediate_algebra_928",
+   "sample": 0,
+   "j": 4238,
+   "i": 4385,
+   "finish": "length",
+   "prefix_len": 4527
+  },
+  {
+   "id": "math_train_counting_and_probability_569",
+   "sample": 0,
+   "j": 6484,
+   "i": 6651,
+   "finish": "length",
+   "prefix_len": 6787
+  },
+  {
+   "id": "math_train_intermediate_algebra_952",
+   "sample": 0,
+   "j": 6972,
+   "i": 7149,
+   "finish": "length",
+   "prefix_len": 7287
+  },
+  {
+   "id": "math_train_counting_and_probability_18",
+   "sample": 0,
+   "j": 4341,
+   "i": 4429,
+   "finish": "length",
+   "prefix_len": 4683
+  },
+  {
+   "id": "math_train_prealgebra_809",
+   "sample": 0,
+   "j": 5415,
+   "i": 5777,
+   "finish": "length",
+   "prefix_len": 5916
+  },
+  {
+   "id": "math_train_prealgebra_929",
+   "sample": 0,
+   "j": 8071,
+   "i": 8155,
+   "finish": "length",
+   "prefix_len": 8282
+  },
+  {
+   "id": "gsm8k_train_5514",
+   "sample": 0,
+   "j": 7115,
+   "i": 7187,
+   "finish": "length",
+   "prefix_len": 7318
+  },
+  {
+   "id": "gsm8k_train_660",
+   "sample": 0,
+   "j": 863,
+   "i": 2921,
+   "finish": "length",
+   "prefix_len": 3065
+  },
+  {
+   "id": "math_train_prealgebra_231",
+   "sample": 0,
+   "j": 2525,
+   "i": 2815,
+   "finish": "length",
+   "prefix_len": 2939
+  },
+  {
+   "id": "math_train_prealgebra_815",
+   "sample": 0,
+   "j": 2913,
+   "i": 3085,
+   "finish": "length",
+   "prefix_len": 3225
+  },
+  {
+   "id": "gsm8k_train_3246",
+   "sample": 0,
+   "j": 3629,
+   "i": 3707,
+   "finish": "length",
+   "prefix_len": 3850
+  },
+  {
+   "id": "math_train_geometry_717",
+   "sample": 0,
+   "j": 6046,
+   "i": 6126,
+   "finish": "length",
+   "prefix_len": 6269
+  },
+  {
+   "id": "gsm8k_train_3306",
+   "sample": 0,
+   "j": 5404,
+   "i": 5669,
+   "finish": "length",
+   "prefix_len": 5807
+  },
+  {
+   "id": "math_train_prealgebra_921",
+   "sample": 0,
+   "j": 4565,
+   "i": 4631,
+   "finish": "length",
+   "prefix_len": 4772
+  },
+  {
+   "id": "gsm8k_train_2517",
+   "sample": 0,
+   "j": 3575,
+   "i": 3674,
+   "finish": "length",
+   "prefix_len": 3814
+  },
+  {
+   "id": "math_train_intermediate_algebra_216",
+   "sample": 0,
+   "j": 1860,
+   "i": 2015,
+   "finish": "length",
+   "prefix_len": 2193
+  },
+  {
+   "id": "math_train_intermediate_algebra_606",
+   "sample": 0,
+   "j": 4799,
+   "i": 10427,
+   "finish": "length",
+   "prefix_len": 10555
+  },
+  {
+   "id": "gsm8k_train_3301",
+   "sample": 0,
+   "j": 3715,
+   "i": 3789,
+   "finish": "length",
+   "prefix_len": 3915
+  },
+  {
+   "id": "gsm8k_train_1639",
+   "sample": 0,
+   "j": 1667,
+   "i": 1831,
+   "finish": "length",
+   "prefix_len": 1974
+  },
+  {
+   "id": "gsm8k_train_436",
+   "sample": 0,
+   "j": 5681,
+   "i": 5777,
+   "finish": "length",
+   "prefix_len": 5916
+  },
+  {
+   "id": "gsm8k_train_6871",
+   "sample": 0,
+   "j": 5971,
+   "i": 6094,
+   "finish": "length",
+   "prefix_len": 6238
+  },
+  {
+   "id": "math_train_algebra_594",
+   "sample": 0,
+   "j": 5699,
+   "i": 5805,
+   "finish": "length",
+   "prefix_len": 5916
+  },
+  {
+   "id": "gsm8k_train_6260",
+   "sample": 0,
+   "j": 5838,
+   "i": 6116,
+   "finish": "length",
+   "prefix_len": 6286
+  },
+  {
+   "id": "math_train_counting_and_probability_61",
+   "sample": 0,
+   "j": 2580,
+   "i": 2978,
+   "finish": "length",
+   "prefix_len": 3107
+  },
+  {
+   "id": "math_train_number_theory_348",
+   "sample": 0,
+   "j": 2103,
+   "i": 2307,
+   "finish": "length",
+   "prefix_len": 2426
+  },
+  {
+   "id": "math_train_prealgebra_1099",
+   "sample": 0,
+   "j": 6047,
+   "i": 6169,
+   "finish": "length",
+   "prefix_len": 6276
+  },
+  {
+   "id": "gsm8k_train_2493",
+   "sample": 0,
+   "j": 3045,
+   "i": 3139,
+   "finish": "length",
+   "prefix_len": 3281
+  },
+  {
+   "id": "gsm8k_train_3247",
+   "sample": 0,
+   "j": 2978,
+   "i": 3894,
+   "finish": "length",
+   "prefix_len": 4040
+  },
+  {
+   "id": "math_train_intermediate_algebra_1185",
+   "sample": 0,
+   "j": 1828,
+   "i": 2610,
+   "finish": "length",
+   "prefix_len": 2753
+  },
+  {
+   "id": "math_train_prealgebra_76",
+   "sample": 0,
+   "j": 2933,
+   "i": 3007,
+   "finish": "length",
+   "prefix_len": 3164
+  },
+  {
+   "id": "math_train_precalculus_480",
+   "sample": 0,
+   "j": 4532,
+   "i": 4697,
+   "finish": "length",
+   "prefix_len": 4844
+  },
+  {
+   "id": "math_train_geometry_275",
+   "sample": 0,
+   "j": 702,
+   "i": 1227,
+   "finish": "length",
+   "prefix_len": 1359
+  },
+  {
+   "id": "gsm8k_train_3932",
+   "sample": 0,
+   "j": 2421,
+   "i": 2540,
+   "finish": "length",
+   "prefix_len": 2675
+  },
+  {
+   "id": "math_train_prealgebra_404",
+   "sample": 0,
+   "j": 3103,
+   "i": 3169,
+   "finish": "length",
+   "prefix_len": 3287
+  },
+  {
+   "id": "gsm8k_train_3189",
+   "sample": 0,
+   "j": 3487,
+   "i": 3731,
+   "finish": "length",
+   "prefix_len": 3864
+  },
+  {
+   "id": "math_train_intermediate_algebra_302",
+   "sample": 0,
+   "j": 2454,
+   "i": 3027,
+   "finish": "length",
+   "prefix_len": 3161
+  },
+  {
+   "id": "math_train_number_theory_12",
+   "sample": 0,
+   "j": 2898,
+   "i": 6623,
+   "finish": "length",
+   "prefix_len": 6736
+  },
+  {
+   "id": "math_train_counting_and_probability_190",
+   "sample": 0,
+   "j": 3616,
+   "i": 3814,
+   "finish": "length",
+   "prefix_len": 3954
+  },
+  {
+   "id": "math_train_geometry_741",
+   "sample": 0,
+   "j": 3825,
+   "i": 3893,
+   "finish": "length",
+   "prefix_len": 4031
+  },
+  {
+   "id": "math_train_prealgebra_688",
+   "sample": 0,
+   "j": 4156,
+   "i": 4246,
+   "finish": "length",
+   "prefix_len": 4352
+  },
+  {
+   "id": "math_train_algebra_351",
+   "sample": 0,
+   "j": 8420,
+   "i": 8484,
+   "finish": "length",
+   "prefix_len": 8633
+  },
+  {
+   "id": "math_train_intermediate_algebra_48",
+   "sample": 0,
+   "j": 7829,
+   "i": 7980,
+   "finish": "length",
+   "prefix_len": 8123
+  },
+  {
+   "id": "gsm8k_train_4937",
+   "sample": 0,
+   "j": 3898,
+   "i": 4462,
+   "finish": "length",
+   "prefix_len": 4615
+  },
+  {
+   "id": "gsm8k_train_3209",
+   "sample": 0,
+   "j": 3460,
+   "i": 4315,
+   "finish": "length",
+   "prefix_len": 4467
+  },
+  {
+   "id": "math_train_intermediate_algebra_306",
+   "sample": 0,
+   "j": 6115,
+   "i": 6419,
+   "finish": "length",
+   "prefix_len": 6536
+  },
+  {
+   "id": "gsm8k_train_6857",
+   "sample": 0,
+   "j": 3945,
+   "i": 4150,
+   "finish": "length",
+   "prefix_len": 4348
+  },
+  {
+   "id": "gsm8k_train_5485",
+   "sample": 0,
+   "j": 6611,
+   "i": 6824,
+   "finish": "length",
+   "prefix_len": 6989
+  },
+  {
+   "id": "math_train_prealgebra_68",
+   "sample": 0,
+   "j": 667,
+   "i": 2872,
+   "finish": "length",
+   "prefix_len": 3114
+  },
+  {
+   "id": "gsm8k_train_3811",
+   "sample": 0,
+   "j": 1501,
+   "i": 2102,
+   "finish": "length",
+   "prefix_len": 2267
+  },
+  {
+   "id": "math_train_intermediate_algebra_863",
+   "sample": 0,
+   "j": 3395,
+   "i": 5307,
+   "finish": "length",
+   "prefix_len": 5469
+  },
+  {
+   "id": "math_train_intermediate_algebra_900",
+   "sample": 0,
+   "j": 1645,
+   "i": 1895,
+   "finish": "length",
+   "prefix_len": 2069
+  },
+  {
+   "id": "gsm8k_train_6570",
+   "sample": 0,
+   "j": 3959,
+   "i": 4030,
+   "finish": "length",
+   "prefix_len": 4183
+  },
+  {
+   "id": "math_train_intermediate_algebra_1193",
+   "sample": 0,
+   "j": 4510,
+   "i": 4581,
+   "finish": "length",
+   "prefix_len": 4821
+  },
+  {
+   "id": "math_train_precalculus_361",
+   "sample": 0,
+   "j": 1379,
+   "i": 2214,
+   "finish": "length",
+   "prefix_len": 2334
+  },
+  {
+   "id": "gsm8k_train_314",
+   "sample": 0,
+   "j": 1276,
+   "i": 2784,
+   "finish": "length",
+   "prefix_len": 2967
+  },
+  {
+   "id": "math_train_precalculus_459",
+   "sample": 0,
+   "j": 8230,
+   "i": 8367,
+   "finish": "length",
+   "prefix_len": 8503
+  },
+  {
+   "id": "gsm8k_train_1127",
+   "sample": 0,
+   "j": 5892,
+   "i": 6104,
+   "finish": "length",
+   "prefix_len": 6254
+  },
+  {
+   "id": "gsm8k_train_5712",
+   "sample": 0,
+   "j": 2619,
+   "i": 2726,
+   "finish": "length",
+   "prefix_len": 2861
+  },
+  {
+   "id": "math_train_prealgebra_49",
+   "sample": 0,
+   "j": 6401,
+   "i": 6479,
+   "finish": "length",
+   "prefix_len": 6612
+  },
+  {
+   "id": "gsm8k_train_3339",
+   "sample": 0,
+   "j": 10914,
+   "i": 11075,
+   "finish": "length",
+   "prefix_len": 11203
+  },
+  {
+   "id": "math_train_algebra_373",
+   "sample": 0,
+   "j": 6902,
+   "i": 6978,
+   "finish": "length",
+   "prefix_len": 7099
+  },
+  {
+   "id": "gsm8k_train_4414",
+   "sample": 0,
+   "j": 2051,
+   "i": 2123,
+   "finish": "length",
+   "prefix_len": 2269
+  },
+  {
+   "id": "gsm8k_train_1205",
+   "sample": 0,
+   "j": 7431,
+   "i": 8904,
+   "finish": "length",
+   "prefix_len": 9071
+  },
+  {
+   "id": "gsm8k_train_4788",
+   "sample": 0,
+   "j": 2858,
+   "i": 3179,
+   "finish": "length",
+   "prefix_len": 3347
+  },
+  {
+   "id": "gsm8k_train_3032",
+   "sample": 0,
+   "j": 4266,
+   "i": 4915,
+   "finish": "length",
+   "prefix_len": 5077
+  },
+  {
+   "id": "math_train_intermediate_algebra_783",
+   "sample": 0,
+   "j": 8373,
+   "i": 10533,
+   "finish": "length",
+   "prefix_len": 10659
+  },
+  {
+   "id": "gsm8k_train_223",
+   "sample": 0,
+   "j": 5455,
+   "i": 5579,
+   "finish": "length",
+   "prefix_len": 5731
+  },
+  {
+   "id": "gsm8k_train_2158",
+   "sample": 0,
+   "j": 3835,
+   "i": 3992,
+   "finish": "length",
+   "prefix_len": 4110
+  },
+  {
+   "id": "gsm8k_train_3005",
+   "sample": 0,
+   "j": 1034,
+   "i": 1118,
+   "finish": "length",
+   "prefix_len": 1264
+  },
+  {
+   "id": "gsm8k_train_4374",
+   "sample": 0,
+   "j": 3604,
+   "i": 3686,
+   "finish": "length",
+   "prefix_len": 3833
+  },
+  {
+   "id": "gsm8k_train_2136",
+   "sample": 0,
+   "j": 2004,
+   "i": 2308,
+   "finish": "length",
+   "prefix_len": 2463
+  },
+  {
+   "id": "math_train_prealgebra_643",
+   "sample": 0,
+   "j": 6709,
+   "i": 6813,
+   "finish": "length",
+   "prefix_len": 6938
+  },
+  {
+   "id": "gsm8k_train_2558",
+   "sample": 0,
+   "j": 2478,
+   "i": 2770,
+   "finish": "length",
+   "prefix_len": 2912
+  },
+  {
+   "id": "gsm8k_train_3916",
+   "sample": 0,
+   "j": 4250,
+   "i": 4314,
+   "finish": "length",
+   "prefix_len": 4448
+  },
+  {
+   "id": "math_train_number_theory_642",
+   "sample": 0,
+   "j": 2897,
+   "i": 3975,
+   "finish": "length",
+   "prefix_len": 4142
+  },
+  {
+   "id": "gsm8k_train_6807",
+   "sample": 0,
+   "j": 7200,
+   "i": 7424,
+   "finish": "length",
+   "prefix_len": 7581
+  },
+  {
+   "id": "math_train_number_theory_530",
+   "sample": 0,
+   "j": 1258,
+   "i": 2178,
+   "finish": "length",
+   "prefix_len": 2283
+  },
+  {
+   "id": "math_train_algebra_845",
+   "sample": 0,
+   "j": 3229,
+   "i": 3302,
+   "finish": "length",
+   "prefix_len": 3450
+  },
+  {
+   "id": "gsm8k_train_1001",
+   "sample": 0,
+   "j": 2396,
+   "i": 4993,
+   "finish": "length",
+   "prefix_len": 5156
+  },
+  {
+   "id": "gsm8k_train_5199",
+   "sample": 0,
+   "j": 2767,
+   "i": 3934,
+   "finish": "length",
+   "prefix_len": 4076
+  },
+  {
+   "id": "gsm8k_train_5760",
+   "sample": 0,
+   "j": 2453,
+   "i": 2536,
+   "finish": "length",
+   "prefix_len": 2686
+  },
+  {
+   "id": "math_train_intermediate_algebra_825",
+   "sample": 0,
+   "j": 6061,
+   "i": 6424,
+   "finish": "length",
+   "prefix_len": 6683
+  },
+  {
+   "id": "gsm8k_train_1065",
+   "sample": 0,
+   "j": 3651,
+   "i": 4047,
+   "finish": "length",
+   "prefix_len": 4191
+  },
+  {
+   "id": "gsm8k_train_4309",
+   "sample": 0,
+   "j": 4603,
+   "i": 4683,
+   "finish": "length",
+   "prefix_len": 4849
+  },
+  {
+   "id": "gsm8k_train_3504",
+   "sample": 0,
+   "j": 4628,
+   "i": 5107,
+   "finish": "length",
+   "prefix_len": 5268
+  },
+  {
+   "id": "gsm8k_train_4790",
+   "sample": 0,
+   "j": 9525,
+   "i": 11124,
+   "finish": "length",
+   "prefix_len": 11269
+  },
+  {
+   "id": "math_train_geometry_316",
+   "sample": 0,
+   "j": 240,
+   "i": 2498,
+   "finish": "length",
+   "prefix_len": 2912
+  },
+  {
+   "id": "math_train_geometry_220",
+   "sample": 0,
+   "j": 3869,
+   "i": 3994,
+   "finish": "length",
+   "prefix_len": 4135
+  },
+  {
+   "id": "math_train_precalculus_212",
+   "sample": 0,
+   "j": 4006,
+   "i": 4717,
+   "finish": "length",
+   "prefix_len": 4855
+  },
+  {
+   "id": "gsm8k_train_499",
+   "sample": 0,
+   "j": 2083,
+   "i": 3076,
+   "finish": "length",
+   "prefix_len": 3195
+  },
+  {
+   "id": "gsm8k_train_3325",
+   "sample": 0,
+   "j": 2444,
+   "i": 2516,
+   "finish": "length",
+   "prefix_len": 2654
+  },
+  {
+   "id": "gsm8k_train_7286",
+   "sample": 0,
+   "j": 3219,
+   "i": 3585,
+   "finish": "length",
+   "prefix_len": 3737
+  },
+  {
+   "id": "math_train_counting_and_probability_739",
+   "sample": 0,
+   "j": 4951,
+   "i": 5426,
+   "finish": "length",
+   "prefix_len": 5642
+  },
+  {
+   "id": "gsm8k_train_4665",
+   "sample": 0,
+   "j": 4349,
+   "i": 4470,
+   "finish": "length",
+   "prefix_len": 4621
+  },
+  {
+   "id": "math_train_intermediate_algebra_246",
+   "sample": 0,
+   "j": 5396,
+   "i": 5498,
+   "finish": "length",
+   "prefix_len": 5754
+  },
+  {
+   "id": "gsm8k_train_3931",
+   "sample": 0,
+   "j": 6049,
+   "i": 7217,
+   "finish": "length",
+   "prefix_len": 7362
+  },
+  {
+   "id": "gsm8k_train_6909",
+   "sample": 0,
+   "j": 3961,
+   "i": 4122,
+   "finish": "length",
+   "prefix_len": 4249
+  },
+  {
+   "id": "math_train_geometry_417",
+   "sample": 0,
+   "j": 8264,
+   "i": 9020,
+   "finish": "length",
+   "prefix_len": 9202
+  },
+  {
+   "id": "math_train_algebra_1141",
+   "sample": 0,
+   "j": 6421,
+   "i": 8549,
+   "finish": "length",
+   "prefix_len": 8676
+  },
+  {
+   "id": "gsm8k_train_164",
+   "sample": 0,
+   "j": 6898,
+   "i": 7203,
+   "finish": "length",
+   "prefix_len": 7344
+  },
+  {
+   "id": "gsm8k_train_3464",
+   "sample": 0,
+   "j": 4099,
+   "i": 4177,
+   "finish": "length",
+   "prefix_len": 4295
+  },
+  {
+   "id": "gsm8k_train_1445",
+   "sample": 0,
+   "j": 3612,
+   "i": 3820,
+   "finish": "length",
+   "prefix_len": 3983
+  },
+  {
+   "id": "gsm8k_train_1991",
+   "sample": 0,
+   "j": 5763,
+   "i": 6042,
+   "finish": "length",
+   "prefix_len": 6218
+  },
+  {
+   "id": "gsm8k_train_3009",
+   "sample": 0,
+   "j": 6562,
+   "i": 6726,
+   "finish": "length",
+   "prefix_len": 6901
+  },
+  {
+   "id": "gsm8k_train_2114",
+   "sample": 0,
+   "j": 3164,
+   "i": 3301,
+   "finish": "length",
+   "prefix_len": 3524
+  },
+  {
+   "id": "gsm8k_train_4579",
+   "sample": 0,
+   "j": 3746,
+   "i": 3838,
+   "finish": "length",
+   "prefix_len": 3966
+  },
+  {
+   "id": "math_train_prealgebra_713",
+   "sample": 0,
+   "j": 10120,
+   "i": 10191,
+   "finish": "length",
+   "prefix_len": 10314
+  },
+  {
+   "id": "gsm8k_train_4441",
+   "sample": 0,
+   "j": 2831,
+   "i": 2917,
+   "finish": "length",
+   "prefix_len": 3078
+  },
+  {
+   "id": "math_train_number_theory_346",
+   "sample": 0,
+   "j": 9077,
+   "i": 9164,
+   "finish": "length",
+   "prefix_len": 9282
+  },
+  {
+   "id": "math_train_algebra_1462",
+   "sample": 0,
+   "j": 4576,
+   "i": 4651,
+   "finish": "length",
+   "prefix_len": 4841
+  },
+  {
+   "id": "math_train_algebra_1393",
+   "sample": 0,
+   "j": 5662,
+   "i": 8542,
+   "finish": "length",
+   "prefix_len": 8673
+  },
+  {
+   "id": "gsm8k_train_1579",
+   "sample": 0,
+   "j": 4124,
+   "i": 4761,
+   "finish": "length",
+   "prefix_len": 4913
+  },
+  {
+   "id": "gsm8k_train_786",
+   "sample": 0,
+   "j": 1626,
+   "i": 3390,
+   "finish": "length",
+   "prefix_len": 3555
+  },
+  {
+   "id": "math_train_algebra_99",
+   "sample": 0,
+   "j": 1426,
+   "i": 2028,
+   "finish": "length",
+   "prefix_len": 2174
+  },
+  {
+   "id": "math_train_prealgebra_590",
+   "sample": 0,
+   "j": 2110,
+   "i": 2175,
+   "finish": "length",
+   "prefix_len": 2283
+  },
+  {
+   "id": "math_train_prealgebra_1105",
+   "sample": 0,
+   "j": 8167,
+   "i": 10208,
+   "finish": "length",
+   "prefix_len": 10356
+  },
+  {
+   "id": "math_train_algebra_272",
+   "sample": 0,
+   "j": 4071,
+   "i": 4137,
+   "finish": "length",
+   "prefix_len": 4242
+  },
+  {
+   "id": "math_train_geometry_39",
+   "sample": 0,
+   "j": 1909,
+   "i": 3307,
+   "finish": "length",
+   "prefix_len": 3445
+  },
+  {
+   "id": "math_train_algebra_661",
+   "sample": 0,
+   "j": 4266,
+   "i": 11668,
+   "finish": "length",
+   "prefix_len": 11778
+  },
+  {
+   "id": "math_train_intermediate_algebra_496",
+   "sample": 0,
+   "j": 568,
+   "i": 637,
+   "finish": "length",
+   "prefix_len": 763
+  },
+  {
+   "id": "math_train_intermediate_algebra_1275",
+   "sample": 0,
+   "j": 1887,
+   "i": 2720,
+   "finish": "length",
+   "prefix_len": 2969
+  },
+  {
+   "id": "gsm8k_train_7157",
+   "sample": 0,
+   "j": 3334,
+   "i": 3412,
+   "finish": "length",
+   "prefix_len": 3588
+  },
+  {
+   "id": "gsm8k_train_1469",
+   "sample": 0,
+   "j": 2288,
+   "i": 2373,
+   "finish": "length",
+   "prefix_len": 2508
+  },
+  {
+   "id": "math_train_algebra_167",
+   "sample": 0,
+   "j": 8806,
+   "i": 8906,
+   "finish": "length",
+   "prefix_len": 9035
+  },
+  {
+   "id": "gsm8k_train_5989",
+   "sample": 0,
+   "j": 1070,
+   "i": 1479,
+   "finish": "length",
+   "prefix_len": 1650
+  },
+  {
+   "id": "gsm8k_train_4817",
+   "sample": 0,
+   "j": 2272,
+   "i": 2588,
+   "finish": "length",
+   "prefix_len": 2744
+  },
+  {
+   "id": "gsm8k_train_5922",
+   "sample": 0,
+   "j": 2050,
+   "i": 3743,
+   "finish": "length",
+   "prefix_len": 3860
+  },
+  {
+   "id": "math_train_algebra_1637",
+   "sample": 0,
+   "j": 2329,
+   "i": 5009,
+   "finish": "length",
+   "prefix_len": 5146
+  },
+  {
+   "id": "gsm8k_train_578",
+   "sample": 0,
+   "j": 4469,
+   "i": 4559,
+   "finish": "length",
+   "prefix_len": 4738
+  },
+  {
+   "id": "math_train_geometry_761",
+   "sample": 0,
+   "j": 5609,
+   "i": 5781,
+   "finish": "length",
+   "prefix_len": 5883
+  },
+  {
+   "id": "math_train_counting_and_probability_544",
+   "sample": 0,
+   "j": 3474,
+   "i": 3557,
+   "finish": "length",
+   "prefix_len": 3697
+  },
+  {
+   "id": "math_train_algebra_1084",
+   "sample": 0,
+   "j": 6294,
+   "i": 6369,
+   "finish": "length",
+   "prefix_len": 6497
+  },
+  {
+   "id": "math_train_counting_and_probability_535",
+   "sample": 0,
+   "j": 4795,
+   "i": 4859,
+   "finish": "length",
+   "prefix_len": 5326
+  },
+  {
+   "id": "math_train_intermediate_algebra_78",
+   "sample": 0,
+   "j": 4404,
+   "i": 5009,
+   "finish": "length",
+   "prefix_len": 5144
+  },
+  {
+   "id": "math_train_number_theory_791",
+   "sample": 0,
+   "j": 2033,
+   "i": 3004,
+   "finish": "length",
+   "prefix_len": 3193
+  },
+  {
+   "id": "math_train_number_theory_260",
+   "sample": 0,
+   "j": 3340,
+   "i": 3777,
+   "finish": "length",
+   "prefix_len": 3916
+  },
+  {
+   "id": "gsm8k_train_1031",
+   "sample": 0,
+   "j": 4533,
+   "i": 5328,
+   "finish": "length",
+   "prefix_len": 5482
+  },
+  {
+   "id": "gsm8k_train_5052",
+   "sample": 0,
+   "j": 3308,
+   "i": 3575,
+   "finish": "length",
+   "prefix_len": 3705
+  },
+  {
+   "id": "math_train_counting_and_probability_679",
+   "sample": 0,
+   "j": 2885,
+   "i": 2973,
+   "finish": "length",
+   "prefix_len": 3075
+  },
+  {
+   "id": "gsm8k_train_4953",
+   "sample": 0,
+   "j": 4348,
+   "i": 4421,
+   "finish": "length",
+   "prefix_len": 4571
+  },
+  {
+   "id": "math_train_intermediate_algebra_1242",
+   "sample": 0,
+   "j": 5675,
+   "i": 6634,
+   "finish": "length",
+   "prefix_len": 6771
+  },
+  {
+   "id": "math_train_prealgebra_649",
+   "sample": 0,
+   "j": 6664,
+   "i": 6732,
+   "finish": "length",
+   "prefix_len": 6858
+  },
+  {
+   "id": "gsm8k_train_3645",
+   "sample": 0,
+   "j": 686,
+   "i": 815,
+   "finish": "length",
+   "prefix_len": 1022
+  },
+  {
+   "id": "gsm8k_train_616",
+   "sample": 0,
+   "j": 3765,
+   "i": 4021,
+   "finish": "length",
+   "prefix_len": 4220
+  },
+  {
+   "id": "gsm8k_train_5452",
+   "sample": 0,
+   "j": 6624,
+   "i": 6754,
+   "finish": "length",
+   "prefix_len": 6919
+  },
+  {
+   "id": "math_train_intermediate_algebra_491",
+   "sample": 0,
+   "j": 540,
+   "i": 1075,
+   "finish": "length",
+   "prefix_len": 1201
+  },
+  {
+   "id": "math_train_geometry_641",
+   "sample": 0,
+   "j": 4512,
+   "i": 4689,
+   "finish": "length",
+   "prefix_len": 4822
+  },
+  {
+   "id": "gsm8k_train_2962",
+   "sample": 0,
+   "j": 3793,
+   "i": 3900,
+   "finish": "length",
+   "prefix_len": 4113
+  },
+  {
+   "id": "math_train_intermediate_algebra_1013",
+   "sample": 0,
+   "j": 416,
+   "i": 944,
+   "finish": "length",
+   "prefix_len": 1083
+  },
+  {
+   "id": "gsm8k_train_5604",
+   "sample": 0,
+   "j": 2514,
+   "i": 2591,
+   "finish": "length",
+   "prefix_len": 2755
+  },
+  {
+   "id": "math_train_algebra_1076",
+   "sample": 0,
+   "j": 5168,
+   "i": 5512,
+   "finish": "length",
+   "prefix_len": 5645
+  },
+  {
+   "id": "math_train_number_theory_484",
+   "sample": 0,
+   "j": 3558,
+   "i": 4055,
+   "finish": "length",
+   "prefix_len": 4216
+  },
+  {
+   "id": "math_train_geometry_77",
+   "sample": 0,
+   "j": 110,
+   "i": 4742,
+   "finish": "length",
+   "prefix_len": 5086
+  },
+  {
+   "id": "gsm8k_train_3320",
+   "sample": 0,
+   "j": 5943,
+   "i": 6011,
+   "finish": "length",
+   "prefix_len": 6183
+  },
+  {
+   "id": "gsm8k_train_5272",
+   "sample": 0,
+   "j": 4682,
+   "i": 4769,
+   "finish": "length",
+   "prefix_len": 4928
+  },
+  {
+   "id": "math_train_counting_and_probability_50",
+   "sample": 0,
+   "j": 3218,
+   "i": 3284,
+   "finish": "length",
+   "prefix_len": 3396
+  },
+  {
+   "id": "gsm8k_train_6593",
+   "sample": 0,
+   "j": 2732,
+   "i": 2886,
+   "finish": "length",
+   "prefix_len": 3015
+  },
+  {
+   "id": "math_train_geometry_35",
+   "sample": 0,
+   "j": 8087,
+   "i": 8159,
+   "finish": "length",
+   "prefix_len": 8292
+  },
+  {
+   "id": "gsm8k_train_1060",
+   "sample": 0,
+   "j": 4621,
+   "i": 5465,
+   "finish": "length",
+   "prefix_len": 5610
+  },
+  {
+   "id": "gsm8k_train_4624",
+   "sample": 0,
+   "j": 2046,
+   "i": 2804,
+   "finish": "length",
+   "prefix_len": 2965
+  },
+  {
+   "id": "gsm8k_train_3715",
+   "sample": 0,
+   "j": 2895,
+   "i": 2987,
+   "finish": "length",
+   "prefix_len": 3154
+  },
+  {
+   "id": "gsm8k_train_254",
+   "sample": 0,
+   "j": 2071,
+   "i": 2396,
+   "finish": "length",
+   "prefix_len": 2569
+  },
+  {
+   "id": "gsm8k_train_888",
+   "sample": 0,
+   "j": 3149,
+   "i": 3330,
+   "finish": "length",
+   "prefix_len": 3466
+  },
+  {
+   "id": "math_train_precalculus_547",
+   "sample": 0,
+   "j": 2863,
+   "i": 6356,
+   "finish": "length",
+   "prefix_len": 6504
+  },
+  {
+   "id": "gsm8k_train_2118",
+   "sample": 0,
+   "j": 3491,
+   "i": 3815,
+   "finish": "length",
+   "prefix_len": 3943
+  },
+  {
+   "id": "math_train_counting_and_probability_180",
+   "sample": 0,
+   "j": 2780,
+   "i": 2953,
+   "finish": "length",
+   "prefix_len": 3115
+  },
+  {
+   "id": "gsm8k_train_5419",
+   "sample": 0,
+   "j": 3372,
+   "i": 5947,
+   "finish": "length",
+   "prefix_len": 6139
+  },
+  {
+   "id": "math_train_precalculus_199",
+   "sample": 0,
+   "j": 6191,
+   "i": 6423,
+   "finish": "length",
+   "prefix_len": 6551
+  },
+  {
+   "id": "math_train_geometry_408",
+   "sample": 0,
+   "j": 2044,
+   "i": 2384,
+   "finish": "length",
+   "prefix_len": 2578
+  },
+  {
+   "id": "gsm8k_train_4523",
+   "sample": 0,
+   "j": 4839,
+   "i": 4937,
+   "finish": "length",
+   "prefix_len": 5091
+  },
+  {
+   "id": "math_train_intermediate_algebra_57",
+   "sample": 0,
+   "j": 5798,
+   "i": 5876,
+   "finish": "length",
+   "prefix_len": 6019
+  },
+  {
+   "id": "math_train_geometry_545",
+   "sample": 0,
+   "j": 2659,
+   "i": 2786,
+   "finish": "length",
+   "prefix_len": 3392
+  },
+  {
+   "id": "gsm8k_train_2066",
+   "sample": 0,
+   "j": 2037,
+   "i": 2133,
+   "finish": "length",
+   "prefix_len": 2270
+  },
+  {
+   "id": "gsm8k_train_4526",
+   "sample": 0,
+   "j": 5521,
+   "i": 5629,
+   "finish": "length",
+   "prefix_len": 5794
+  },
+  {
+   "id": "math_train_intermediate_algebra_230",
+   "sample": 0,
+   "j": 8782,
+   "i": 9628,
+   "finish": "length",
+   "prefix_len": 9765
+  },
+  {
+   "id": "math_train_intermediate_algebra_0",
+   "sample": 0,
+   "j": 6330,
+   "i": 6437,
+   "finish": "length",
+   "prefix_len": 6722
+  },
+  {
+   "id": "math_train_intermediate_algebra_852",
+   "sample": 0,
+   "j": 2724,
+   "i": 2840,
+   "finish": "length",
+   "prefix_len": 2994
+  },
+  {
+   "id": "gsm8k_train_3351",
+   "sample": 0,
+   "j": 7640,
+   "i": 7721,
+   "finish": "length",
+   "prefix_len": 7870
+  },
+  {
+   "id": "gsm8k_train_6135",
+   "sample": 0,
+   "j": 1502,
+   "i": 4170,
+   "finish": "length",
+   "prefix_len": 4310
+  },
+  {
+   "id": "math_train_precalculus_408",
+   "sample": 0,
+   "j": 5817,
+   "i": 7280,
+   "finish": "length",
+   "prefix_len": 7857
+  },
+  {
+   "id": "math_train_counting_and_probability_664",
+   "sample": 0,
+   "j": 10949,
+   "i": 13160,
+   "finish": "length",
+   "prefix_len": 13272
+  },
+  {
+   "id": "gsm8k_train_3966",
+   "sample": 0,
+   "j": 3158,
+   "i": 3536,
+   "finish": "length",
+   "prefix_len": 3685
+  },
+  {
+   "id": "gsm8k_train_5428",
+   "sample": 0,
+   "j": 2946,
+   "i": 3026,
+   "finish": "length",
+   "prefix_len": 3167
+  },
+  {
+   "id": "gsm8k_train_3230",
+   "sample": 0,
+   "j": 5674,
+   "i": 5901,
+   "finish": "length",
+   "prefix_len": 6066
+  },
+  {
+   "id": "gsm8k_train_912",
+   "sample": 0,
+   "j": 2699,
+   "i": 2993,
+   "finish": "length",
+   "prefix_len": 3146
+  },
+  {
+   "id": "gsm8k_train_4828",
+   "sample": 0,
+   "j": 4722,
+   "i": 4835,
+   "finish": "length",
+   "prefix_len": 4963
+  },
+  {
+   "id": "gsm8k_train_2466",
+   "sample": 0,
+   "j": 4323,
+   "i": 4395,
+   "finish": "length",
+   "prefix_len": 4523
+  },
+  {
+   "id": "math_train_prealgebra_397",
+   "sample": 0,
+   "j": 2057,
+   "i": 11336,
+   "finish": "length",
+   "prefix_len": 11448
+  },
+  {
+   "id": "math_train_precalculus_400",
+   "sample": 0,
+   "j": 1986,
+   "i": 2343,
+   "finish": "length",
+   "prefix_len": 2515
+  },
+  {
+   "id": "math_train_number_theory_88",
+   "sample": 0,
+   "j": 4788,
+   "i": 5961,
+   "finish": "length",
+   "prefix_len": 6084
+  },
+  {
+   "id": "math_train_intermediate_algebra_534",
+   "sample": 0,
+   "j": 5856,
+   "i": 5940,
+   "finish": "length",
+   "prefix_len": 6121
+  },
+  {
+   "id": "gsm8k_train_5757",
+   "sample": 0,
+   "j": 4982,
+   "i": 5050,
+   "finish": "length",
+   "prefix_len": 5167
+  },
+  {
+   "id": "gsm8k_train_6226",
+   "sample": 0,
+   "j": 581,
+   "i": 1279,
+   "finish": "length",
+   "prefix_len": 1497
+  },
+  {
+   "id": "gsm8k_train_4284",
+   "sample": 0,
+   "j": 2801,
+   "i": 3439,
+   "finish": "length",
+   "prefix_len": 3572
+  },
+  {
+   "id": "gsm8k_train_4691",
+   "sample": 0,
+   "j": 7890,
+   "i": 7956,
+   "finish": "length",
+   "prefix_len": 8135
+  },
+  {
+   "id": "gsm8k_train_4319",
+   "sample": 0,
+   "j": 3498,
+   "i": 3602,
+   "finish": "length",
+   "prefix_len": 3744
+  },
+  {
+   "id": "math_train_number_theory_178",
+   "sample": 0,
+   "j": 6901,
+   "i": 7326,
+   "finish": "length",
+   "prefix_len": 7451
+  },
+  {
+   "id": "math_train_precalculus_700",
+   "sample": 0,
+   "j": 7511,
+   "i": 7637,
+   "finish": "length",
+   "prefix_len": 7772
+  },
+  {
+   "id": "gsm8k_train_2252",
+   "sample": 0,
+   "j": 2510,
+   "i": 2585,
+   "finish": "length",
+   "prefix_len": 2719
+  },
+  {
+   "id": "math_train_algebra_86",
+   "sample": 0,
+   "j": 11326,
+   "i": 11980,
+   "finish": "length",
+   "prefix_len": 12105
+  },
+  {
+   "id": "gsm8k_train_7078",
+   "sample": 0,
+   "j": 2520,
+   "i": 5752,
+   "finish": "length",
+   "prefix_len": 5921
+  },
+  {
+   "id": "gsm8k_train_3143",
+   "sample": 0,
+   "j": 3672,
+   "i": 3832,
+   "finish": "length",
+   "prefix_len": 3991
+  },
+  {
+   "id": "math_train_intermediate_algebra_309",
+   "sample": 0,
+   "j": 6856,
+   "i": 6940,
+   "finish": "length",
+   "prefix_len": 7068
+  },
+  {
+   "id": "math_train_counting_and_probability_46",
+   "sample": 0,
+   "j": 4528,
+   "i": 4612,
+   "finish": "length",
+   "prefix_len": 4762
+  },
+  {
+   "id": "gsm8k_train_5425",
+   "sample": 0,
+   "j": 2573,
+   "i": 2648,
+   "finish": "length",
+   "prefix_len": 2835
+  },
+  {
+   "id": "gsm8k_train_5662",
+   "sample": 0,
+   "j": 3619,
+   "i": 3685,
+   "finish": "length",
+   "prefix_len": 3839
+  },
+  {
+   "id": "math_train_geometry_473",
+   "sample": 0,
+   "j": 4406,
+   "i": 4532,
+   "finish": "length",
+   "prefix_len": 4712
+  },
+  {
+   "id": "math_train_number_theory_381",
+   "sample": 0,
+   "j": 4865,
+   "i": 5040,
+   "finish": "length",
+   "prefix_len": 5175
+  },
+  {
+   "id": "math_train_counting_and_probability_366",
+   "sample": 0,
+   "j": 4343,
+   "i": 4431,
+   "finish": "length",
+   "prefix_len": 4585
+  },
+  {
+   "id": "gsm8k_train_5490",
+   "sample": 0,
+   "j": 5278,
+   "i": 5586,
+   "finish": "length",
+   "prefix_len": 5761
+  },
+  {
+   "id": "gsm8k_train_4509",
+   "sample": 0,
+   "j": 5081,
+   "i": 5214,
+   "finish": "length",
+   "prefix_len": 5360
+  },
+  {
+   "id": "math_train_prealgebra_1189",
+   "sample": 0,
+   "j": 3617,
+   "i": 3699,
+   "finish": "length",
+   "prefix_len": 3855
+  },
+  {
+   "id": "math_train_prealgebra_317",
+   "sample": 0,
+   "j": 4827,
+   "i": 6341,
+   "finish": "length",
+   "prefix_len": 6574
+  },
+  {
+   "id": "math_train_prealgebra_580",
+   "sample": 0,
+   "j": 3822,
+   "i": 5483,
+   "finish": "length",
+   "prefix_len": 5787
+  },
+  {
+   "id": "math_train_precalculus_710",
+   "sample": 0,
+   "j": 2896,
+   "i": 3027,
+   "finish": "length",
+   "prefix_len": 3161
+  },
+  {
+   "id": "gsm8k_train_5880",
+   "sample": 0,
+   "j": 2455,
+   "i": 3024,
+   "finish": "length",
+   "prefix_len": 3148
+  },
+  {
+   "id": "math_train_algebra_709",
+   "sample": 0,
+   "j": 3726,
+   "i": 3894,
+   "finish": "length",
+   "prefix_len": 4042
+  },
+  {
+   "id": "gsm8k_train_344",
+   "sample": 0,
+   "j": 5313,
+   "i": 5894,
+   "finish": "length",
+   "prefix_len": 6033
+  },
+  {
+   "id": "math_train_geometry_374",
+   "sample": 0,
+   "j": 2104,
+   "i": 6063,
+   "finish": "length",
+   "prefix_len": 6196
+  },
+  {
+   "id": "math_train_intermediate_algebra_841",
+   "sample": 0,
+   "j": 2075,
+   "i": 2159,
+   "finish": "length",
+   "prefix_len": 2295
+  },
+  {
+   "id": "math_train_algebra_439",
+   "sample": 0,
+   "j": 5411,
+   "i": 6437,
+   "finish": "length",
+   "prefix_len": 6571
+  },
+  {
+   "id": "math_train_counting_and_probability_403",
+   "sample": 0,
+   "j": 4090,
+   "i": 4160,
+   "finish": "length",
+   "prefix_len": 4403
+  }
+ ],
+ "skipped": {
+  "no_repeat": 43,
+  "too_long": 0
+ },
+ "L": 64,
+ "stats": [
+  {
+   "layer": 0,
+   "heldout_sign_acc": 0.9375,
+   "heldout_gap_sd": 0.3163525462150574,
+   "fit_norm_mean_diff": 0.013110462576150894,
+   "resid_norm": 0.716518223285675
+  },
+  {
+   "layer": 1,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.3954462707042694,
+   "fit_norm_mean_diff": 0.03297937661409378,
+   "resid_norm": 0.9813081622123718
+  },
+  {
+   "layer": 2,
+   "heldout_sign_acc": 0.9140625,
+   "heldout_gap_sd": 0.48049286007881165,
+   "fit_norm_mean_diff": 0.04728381335735321,
+   "resid_norm": 1.0233776569366455
+  },
+  {
+   "layer": 3,
+   "heldout_sign_acc": 0.9296875,
+   "heldout_gap_sd": 0.5212564468383789,
+   "fit_norm_mean_diff": 0.06013234332203865,
+   "resid_norm": 1.1989567279815674
+  },
+  {
+   "layer": 4,
+   "heldout_sign_acc": 0.9375,
+   "heldout_gap_sd": 0.6033453941345215,
+   "fit_norm_mean_diff": 0.06534574180841446,
+   "resid_norm": 1.1872608661651611
+  },
+  {
+   "layer": 5,
+   "heldout_sign_acc": 0.9375,
+   "heldout_gap_sd": 0.6363260746002197,
+   "fit_norm_mean_diff": 0.07201868295669556,
+   "resid_norm": 1.201127052307129
+  },
+  {
+   "layer": 6,
+   "heldout_sign_acc": 0.953125,
+   "heldout_gap_sd": 0.6777981519699097,
+   "fit_norm_mean_diff": 0.0890132486820221,
+   "resid_norm": 1.2500823736190796
+  },
+  {
+   "layer": 7,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.6833913326263428,
+   "fit_norm_mean_diff": 0.09384968131780624,
+   "resid_norm": 1.273529291152954
+  },
+  {
+   "layer": 8,
+   "heldout_sign_acc": 0.953125,
+   "heldout_gap_sd": 0.7450912594795227,
+   "fit_norm_mean_diff": 0.09903554618358612,
+   "resid_norm": 1.1778796911239624
+  },
+  {
+   "layer": 9,
+   "heldout_sign_acc": 0.9296875,
+   "heldout_gap_sd": 0.7501372694969177,
+   "fit_norm_mean_diff": 0.10943739116191864,
+   "resid_norm": 1.280975341796875
+  },
+  {
+   "layer": 10,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.7161191701889038,
+   "fit_norm_mean_diff": 0.13448472321033478,
+   "resid_norm": 1.1891365051269531
+  },
+  {
+   "layer": 11,
+   "heldout_sign_acc": 0.9296875,
+   "heldout_gap_sd": 0.7512020468711853,
+   "fit_norm_mean_diff": 0.16554634273052216,
+   "resid_norm": 1.4116439819335938
+  },
+  {
+   "layer": 12,
+   "heldout_sign_acc": 0.9296875,
+   "heldout_gap_sd": 0.7719013094902039,
+   "fit_norm_mean_diff": 0.1894572377204895,
+   "resid_norm": 1.5776660442352295
+  },
+  {
+   "layer": 13,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.7820926308631897,
+   "fit_norm_mean_diff": 0.2410261332988739,
+   "resid_norm": 1.9006850719451904
+  },
+  {
+   "layer": 14,
+   "heldout_sign_acc": 0.953125,
+   "heldout_gap_sd": 0.7767180800437927,
+   "fit_norm_mean_diff": 0.2839586138725281,
+   "resid_norm": 2.0384061336517334
+  },
+  {
+   "layer": 15,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.840143620967865,
+   "fit_norm_mean_diff": 0.3644476532936096,
+   "resid_norm": 2.8526580333709717
+  },
+  {
+   "layer": 16,
+   "heldout_sign_acc": 0.953125,
+   "heldout_gap_sd": 0.834643542766571,
+   "fit_norm_mean_diff": 0.41882380843162537,
+   "resid_norm": 3.354708433151245
+  },
+  {
+   "layer": 17,
+   "heldout_sign_acc": 0.9609375,
+   "heldout_gap_sd": 0.7863082885742188,
+   "fit_norm_mean_diff": 0.46008583903312683,
+   "resid_norm": 3.814180850982666
+  },
+  {
+   "layer": 18,
+   "heldout_sign_acc": 0.96875,
+   "heldout_gap_sd": 0.8762182593345642,
+   "fit_norm_mean_diff": 0.47367241978645325,
+   "resid_norm": 3.9735658168792725
+  },
+  {
+   "layer": 19,
+   "heldout_sign_acc": 0.9453125,
+   "heldout_gap_sd": 0.7838504910469055,
+   "fit_norm_mean_diff": 0.5978106260299683,
+   "resid_norm": 5.2509684562683105
+  },
+  {
+   "layer": 20,
+   "heldout_sign_acc": 0.96875,
+   "heldout_gap_sd": 0.8122998476028442,
+   "fit_norm_mean_diff": 0.6176182627677917,
+   "resid_norm": 5.826242446899414
+  },
+  {
+   "layer": 21,
+   "heldout_sign_acc": 0.96875,
+   "heldout_gap_sd": 0.8751819133758545,
+   "fit_norm_mean_diff": 0.6781355738639832,
+   "resid_norm": 6.682443141937256
+  },
+  {
+   "layer": 22,
+   "heldout_sign_acc": 0.96875,
+   "heldout_gap_sd": 0.840412437915802,
+   "fit_norm_mean_diff": 0.6773638129234314,
+   "resid_norm": 6.2808122634887695
+  },
+  {
+   "layer": 23,
+   "heldout_sign_acc": 0.9296875,
+   "heldout_gap_sd": 0.9463740587234497,
+   "fit_norm_mean_diff": 7.52499532699585,
+   "resid_norm": 74.6956787109375
+  }
+ ],
+ "records": [
+  "/work/runs/gen_extract_base/records.jsonl.gz"
+ ],
+ "ckpt": "/work/ckpt/base"
+}

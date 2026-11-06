@@ -1,0 +1,131 @@
+{
+ "prefixes_used": 168,
+ "prefixes_total": 256,
+ "branch_counts": {
+  "repeat": 526,
+  "diverge": 818
+ },
+ "stats": [
+  {
+   "layer": 0,
+   "heldout_sign_acc": 0.7380952380952381,
+   "heldout_t": 5.04392790836804
+  },
+  {
+   "layer": 1,
+   "heldout_sign_acc": 0.7976190476190477,
+   "heldout_t": 6.760900026385757
+  },
+  {
+   "layer": 2,
+   "heldout_sign_acc": 0.8095238095238095,
+   "heldout_t": 7.390456825369714
+  },
+  {
+   "layer": 3,
+   "heldout_sign_acc": 0.8214285714285714,
+   "heldout_t": 7.831797636341562
+  },
+  {
+   "layer": 4,
+   "heldout_sign_acc": 0.8333333333333334,
+   "heldout_t": 7.870307460728335
+  },
+  {
+   "layer": 5,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 7.769446502092989
+  },
+  {
+   "layer": 6,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 7.771258377053943
+  },
+  {
+   "layer": 7,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 7.930588540013575
+  },
+  {
+   "layer": 8,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.207047596347268
+  },
+  {
+   "layer": 9,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.114184838822911
+  },
+  {
+   "layer": 10,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.490994938100389
+  },
+  {
+   "layer": 11,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.49132677582676
+  },
+  {
+   "layer": 12,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.537208507547104
+  },
+  {
+   "layer": 13,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.953441786306405
+  },
+  {
+   "layer": 14,
+   "heldout_sign_acc": 0.8928571428571429,
+   "heldout_t": 8.844425531689078
+  },
+  {
+   "layer": 15,
+   "heldout_sign_acc": 0.8809523809523809,
+   "heldout_t": 8.785874202433925
+  },
+  {
+   "layer": 16,
+   "heldout_sign_acc": 0.8690476190476191,
+   "heldout_t": 8.578707114167715
+  },
+  {
+   "layer": 17,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 8.685875876950245
+  },
+  {
+   "layer": 18,
+   "heldout_sign_acc": 0.8690476190476191,
+   "heldout_t": 8.423097717461486
+  },
+  {
+   "layer": 19,
+   "heldout_sign_acc": 0.8571428571428571,
+   "heldout_t": 8.544649257467274
+  },
+  {
+   "layer": 20,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 8.439298693510281
+  },
+  {
+   "layer": 21,
+   "heldout_sign_acc": 0.8571428571428571,
+   "heldout_t": 8.344161084481327
+  },
+  {
+   "layer": 22,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 8.306016764430725
+  },
+  {
+   "layer": 23,
+   "heldout_sign_acc": 0.8452380952380952,
+   "heldout_t": 7.74757296546362
+  }
+ ],
+ "branches": "/work/runs/brc_branches.jsonl.gz"
+}

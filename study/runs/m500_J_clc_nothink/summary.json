@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/clcloc",
+ "data": "/work/data/math500.jsonl",
+ "offset": 0,
+ "problems": 500,
+ "n": 1,
+ "protocol": "nothink35",
+ "sampling": {
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": false,
+ "max_tokens": 8192,
+ "seed": 0,
+ "acc": 0.43,
+ "cut_share": 0.278,
+ "mean_tokens": 3499.654,
+ "tokens_sum": 1749827,
+ "gen_seconds": 431.0,
+ "load_seconds": 75.2,
+ "tok_per_s": 4060.0,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 23565 MiB, 40960 MiB, 100 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 14005 MiB, 40960 MiB, 79 %"
+}

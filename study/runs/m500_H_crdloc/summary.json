@@ -1,0 +1,27 @@
+{
+ "ckpt": "/work/ckpt/crdloc_astra",
+ "data": "/work/data/math500.jsonl",
+ "offset": 0,
+ "problems": 500,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 0,
+ "acc": 0.232,
+ "cut_share": 0.772,
+ "mean_tokens": 29206.922,
+ "tokens_sum": 14603461,
+ "gen_seconds": 4558.9,
+ "load_seconds": 71.6,
+ "tok_per_s": 3203.3,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 26085 MiB, 40960 MiB, 67 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 17799 MiB, 40960 MiB, 60 %"
+}

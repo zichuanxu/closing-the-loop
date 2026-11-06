@@ -1,0 +1,7 @@
+# Independent audit (loopdir_001)
+1 CONFIRMED: regraded with mathqa.extract/is_correct; all 10 arms match claimed accuracy, 0 disagreements with stored `correct`; each arm 500 unique ids == gold ids; finish only stop/length.
+2 CONFIRMED: own bootstrap (10k, seed 12345) I-A 45.6 [41.0,50.2]; I-B 3.8 [0.0,7.8]; I-H 29.8 [25.6,34.0]; I-E 7.2 [2.8,11.8]; B-E 3.4 [-1.0,7.6]; C-A 9.0 [6.0,12.2]; D-A 1.2 [-1.4,3.8]. No addendum gate changes (H7, H8 LB>-5, H10 LB>0).
+3 CONFIRMED: freeze file lists addendum_3 and frozen_clc hashes, then 18:41:30Z; m500_I launch 19:06:49Z (25 min later). Current sha256 of ckpt/clcloc/model.safetensors and edits/clcloc.npz equal runs/frozen_clc.sha256. Addendum_1 freeze 13:46:59Z, F launch 13:47:00Z (1 s later), G 16:41Z. Addendum_2 freeze 14:40:50Z, H launch 15:22:59Z.
+4 CONFIRMED: edits.json lists only layers 15 and 19 mlp.down_proj; I summary: ckpt /work/ckpt/clcloc, think35, max_tokens 32768, seed 0, n 1.
+5 CONFIRMED: no id or whitespace-normalized text overlap of extract (512) or dev (256) with math500. runs/extract/extract.json pair ids all in extract split; runs/clc/extract.json has only stats (no ids), built by closure_dirs.py from the extract split.
+Caveats: code/make_edit.py hash differs from protocol_freeze (logged deviation 16:42:44Z). dev_loc_clc (18:08Z) and CLC selection on dev preceded the addendum_3 freeze (disclosed in addendum). Addendum_2 freeze is 38 s after dev_crd_a2 launch (its result came 15:32Z, after). Arm E launched before addendum_1 (base, expected); B finished 14:51Z, after addendum_1.

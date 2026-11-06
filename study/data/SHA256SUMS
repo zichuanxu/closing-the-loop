@@ -1,0 +1,5 @@
+3731ef791edf1a692d374d54d07aaaff42fbb954936577ce5d456300564c56fb  /home/xuzichuan/weightspace/experiments/loopdir_001/data/dev.jsonl
+93edadd4a1022b0431e0d181d54759415b6925cfb5e2dcd12de8a1d242c1b54b  /home/xuzichuan/weightspace/experiments/loopdir_001/data/extract.jsonl
+cd8dcd9e49d089ef1b7a654823c6976338fcfb44d4a2d9c9afb53b8437e29876  /home/xuzichuan/weightspace/experiments/loopdir_001/data/math500.jsonl
+59e9d55244e68a2b7a2c7a23dfb28d0af12a5235938b334275ece3cbbb315e10  /home/xuzichuan/weightspace/experiments/loopdir_001/data/reserve.jsonl
+5a5295417264fd21faff9df34c6cb04afdfb40f407c9618b10c2224c3190fe41  data/gsm8k_test.jsonl

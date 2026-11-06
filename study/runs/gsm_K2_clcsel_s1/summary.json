@@ -1,0 +1,29 @@
+{
+ "ckpt": "/work/ckpt/clc_sel",
+ "data": "/work/data/gsm8k_test.jsonl",
+ "offset": 0,
+ "problems": 1319,
+ "n": 1,
+ "protocol": "think35",
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5
+ },
+ "thinking": true,
+ "max_tokens": 32768,
+ "seed": 1,
+ "acc": 0.6884003032600455,
+ "force_close": null,
+ "forced_share": 0.0,
+ "cut_share": 0.01061410159211524,
+ "mean_tokens": 8998.900682335103,
+ "tokens_sum": 11869550,
+ "gen_seconds": 5267.4,
+ "load_seconds": 43.4,
+ "tok_per_s": 2253.4,
+ "cuda_visible": null,
+ "gpu_after_load": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 29515 MiB, 40960 MiB, 61 %",
+ "gpu_end": "0, GPU-40333bf8-ac6a-447f-990a-b02c146800dc, NVIDIA A100-PCIE-40GB, 29811 MiB, 40960 MiB, 100 %"
+}

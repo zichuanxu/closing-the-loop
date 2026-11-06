@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.25,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "clc-sel"
+version = "0.1.0"
+description = "Loop-selective closure contrast: a training-free weight edit that stops reasoning loops"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Zichuan Xu", email = "xu.zichuan@ist.osaka-u.ac.jp" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26"]
+
+[project.optional-dependencies]
+model = ["torch>=2.4", "safetensors>=0.4", "huggingface_hub>=0.24"]
+
+[project.urls]
+Repository = "https://github.com/zichuanxu/closing-the-loop"
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.9"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/clc_sel"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+extend-exclude = ["study", "paper"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E741"]
