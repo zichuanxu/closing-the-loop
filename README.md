@@ -42,6 +42,11 @@ Three seeds; Δ is the paired difference with a 95% bootstrap interval over prob
 - The gain comes from answers that finish instead of looping. On problems the model already finishes, the edit does
   not make it reason better.
 
+## Hugging Face
+
+- Edited model: [zichuanxu/Qwen3.5-0.8B-CLC-sel](https://huggingface.co/zichuanxu/Qwen3.5-0.8B-CLC-sel), the exact checkpoint evaluated.
+- Every generation: [zichuanxu/closing-the-loop-generations](https://huggingface.co/datasets/zichuanxu/closing-the-loop-generations), full texts and grades for all 69 runs.
+
 ## Quick start
 
 Requires [uv](https://docs.astral.sh/uv/).
@@ -113,7 +118,7 @@ and the authors' logs ([RikiyaT/lm_understand-logs](https://github.com/RikiyaT/l
 4. `build_ckpt.py`, then `gen_eval.py` on `math500.jsonl` and `gsm8k_test.jsonl`; `analyze.py` and `boot10k.py` for the paired bootstrap.
 
 The `chain*.sh` files are the launch sequences in the order they ran. Full generations (about 200 MB) and the edited
-checkpoints are not in git.
+checkpoints are not in git; they are on Hugging Face (above).
 
 ## Citation
 
