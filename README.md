@@ -9,8 +9,8 @@
 
 Small reasoning models often fail by repeating the same text until they run out of tokens. In thinking mode,
 Qwen3.5-0.8B truncates 93% of its MATH-500 answers at 32,768 tokens and solves 7.4%.
-[Takehi et al. (2026)](https://rikiyat.github.io/blog/weight-space-programming/) let an LLM agent read the model's
-weights for about 20 hours, and the agent wrote a rank-one edit (the "Astra edit") that stops many of these loops.
+[Takehi et al. (2026)](https://rikiyat.github.io/blog/weight-space-programming/) let the LLM agent GPT-6 Astra read the
+model's weights for about 20 hours, and Astra wrote a rank-one edit (the "Astra edit") that stops many of these loops.
 
 **CLC-sel** (loop-selective closure contrast) is a fixed rule that builds an edit of the same form and size with no
 agent, gradients or correctness labels. It runs in about 84 GPU-minutes on 512 of the model's own answers to practice
