@@ -87,8 +87,9 @@ These are the prompt and sampling settings of all thinking-mode runs. The edit w
 import gzip, json
 from huggingface_hub import hf_hub_download
 
-path = hf_hub_download("zichuanxu/closing-the-loop-generations", "m500_I2_clcsel/records.jsonl.gz",
-                       repo_type="dataset")
+path = hf_hub_download(
+    "zichuanxu/closing-the-loop-generations", "m500_I2_clcsel/records.jsonl.gz", repo_type="dataset"
+)
 rows = [json.loads(line) for line in gzip.open(path, "rt")]
 print(sum(r["correct"] for r in rows) / len(rows))  # 0.558, CLC-sel on MATH-500, seed 0
 ```
