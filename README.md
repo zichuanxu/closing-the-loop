@@ -4,6 +4,7 @@
 
 [![Model on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Model-Qwen3.5--0.8B--CLC--sel-yellow)](https://huggingface.co/zichuanxu/Qwen3.5-0.8B-CLC-sel)
 [![Dataset on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-all%20generations-yellow)](https://huggingface.co/datasets/zichuanxu/closing-the-loop-generations)
+[![Blog](https://img.shields.io/badge/blog-Closing%20the%20Loop-green)](https://zichuanxu.github.io/blog/closing-the-loop/)
 [![CI](https://github.com/zichuanxu/closing-the-loop/actions/workflows/ci.yml/badge.svg)](https://github.com/zichuanxu/closing-the-loop/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
@@ -16,7 +17,8 @@ model's weights for about 20 hours, and Astra wrote a rank-one edit (the "Astra 
 agent, gradients or correctness labels. It runs in about 84 GPU-minutes on 512 of the model's own answers to practice
 problems, and it scores **56.3% on MATH-500**, 6.7 points above the agent-written edit.
 
-This repository has the edit rule, the released edits and the full experiment record. The edited model and every
+The [blog post](https://zichuanxu.github.io/blog/closing-the-loop/) walks through the method and results. This repository has the edit rule, the
+released edits and the full experiment record. The edited model and every
 generation are on Hugging Face:
 
 | | Hugging Face | Contents |
